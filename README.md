@@ -1,8 +1,12 @@
-# Pusula Case Study: Patient Treatment Analysis
+# Pusula Talent Academy Data Science Intern Case Study
+
+* **Owner:** Murathan Elcuman
+* **Mail Address**: mrthelcuman@gmail.com
+
 
 ## 1. Project Overview
 
-This project involves the exploratory data analysis (EDA) and preprocessing of a patient dataset provided in an Excel file (`dataset.xlsx`). The primary goal is to clean, understand, and transform the data into a suitable format for machine learning tasks, such as predicting treatment duration.
+This project involves the exploratory data analysis (EDA) and preprocessing of a patient dataset provided in a file. The primary goal is to clean, understand, and transform the data into a suitable format for machine learning tasks, such as predicting treatment duration.
 
 The analysis covers several key stages:
 * **Data Sanity Check:** Initial inspection for data quality, duplicates, and missing values.
@@ -14,7 +18,7 @@ The analysis covers several key stages:
 
 ## 2. Dataset
 
-The dataset (`dataset.xlsx`) contains 2235 records of patient information with 13 distinct features:
+The dataset contains 2235 records of patient information with 13 distinct features:
 
 * **HastaNo:** Patient ID
 * **Yas:** Age
@@ -45,5 +49,5 @@ The analysis was performed using Python with the following key libraries:
 ## 4. How to Run
 
 1.  Ensure you have a Python environment with the libraries listed above installed.
-2.  Place the `dataset.xlsx` file in a `./data/` directory relative to the notebook.
+2.  Place the dataset into the related part of the code.
 3.  Run the `Notebook.ipynb` file in a Jupyter environment to replicate the analysis and preprocessing steps.
