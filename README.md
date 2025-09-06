@@ -1,6 +1,6 @@
 # Pusula Talent Academy Data Science Intern Case Study
 
-* **Owner:** Murathan Elcuman
+* **Name Surname:** Murathan Elcuman
 * **Mail Address**: mrthelcuman@gmail.com
 
 
